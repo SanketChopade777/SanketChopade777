@@ -59,5 +59,5 @@
 
 <h3 align="center">🔥 Fun Animation</h3>
 <div align="center">
-  <img src="https://github.com/SanketChopade777/SanketChopade777/blob/output/snake.svg" alt="Snake Animation" />
+<!--   <img src="https://github.com/SanketChopade777/SanketChopade777/blob/output/snake.svg" alt="Snake Animation" /> -->
 </div>
