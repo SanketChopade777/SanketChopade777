@@ -1,20 +1,14 @@
 <h2 align="center">Hi 👋! I'm Sanket Nivas Chopade</h2>
-<h3 align="center">An Engineering Student from India 🌏</h3>
-
----
+<h3 align="center">An Engineering Student from Government College Of Engineering, Karad, Maharashtra, India 🌏</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanketChopade777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanketChopade777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
-
 <div align="center">
   <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" />
 </div>
-
----
 
 <h3 align="center">💻 Languages and Tools</h3>
 <div align="center">
@@ -37,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
----
-
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
   <a href="https://github.com/SanketChopade777" target="_blank">
@@ -55,9 +47,7 @@
   </a>
 </div>
 
----
-
-<h3 align="center">🔥 Fun Animation</h3>
+<h3 align="center">🌟 Achievements</h3>
 <div align="center">
-<!--   <img src="https://github.com/SanketChopade777/SanketChopade777/blob/output/snake.svg" alt="Snake Animation" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=SanketChopade777&theme=radical&row=1&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
