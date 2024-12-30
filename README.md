@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img align="center" height="300" width="500" src="https://lottie.host/e68504e9-0380-4a79-b63f-139ad3eaae12/bCFFE9Xaax.lottie" alt="Coding GIF" />
+  <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" />
 </div>
 
 <h3 align="center">💻 Languages and Tools</h3>
